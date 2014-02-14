@@ -1,3 +1,7 @@
+/*
+Metto un commento, così provo GitHub  :-)
+*/
+
 <?php
 class JConfig {
 	public $offline = '0';
